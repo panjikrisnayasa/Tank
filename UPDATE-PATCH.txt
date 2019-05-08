@@ -1,0 +1,2 @@
+20190508 (v3)
+- Turn() hanya bisa dijalankan satu kali per Update(), walaupun dipanggil berulang-ulang kali dalam satu Update()
